@@ -1,19 +1,14 @@
-Dettagli del Progetto:
-
-    Dataset:
-        Utilizzo del dataset CIFAR, contenente migliaia di immagini etichettate in varie categorie, inclusi veicoli e animali.
-    Algoritmo:
-        Implementazione di una rete neurale convoluzionale (CNN) per l'analisi e la classificazione delle immagini.
-    Output:
-        Il sistema classificherà correttamente ogni immagine come veicolo o animale.
-
-Valutazione del Modello:
-
-    Accuratezza: Proporzione di immagini classificate correttamente rispetto al totale.
-    Precisione: Qualità delle predizioni positive, indicando la proporzione di immagini correttamente identificate.
-
-Analisi dei Risultati:
-
-    Identificazione di eventuali pattern di errore.
-    Valutazione delle categorie di immagini confuse sistematicamente.
-    Esame delle immagini errate e riflessione su possibili migliorie al modello.
+Project Details:
+Dataset: 
+    Using the CIFAR dataset, containing thousands of images labeled in various categories, including vehicles and animals.
+Algorithm: 
+    Implementation of a convolutional neural network (CNN) for image analysis and classification.
+Output: 
+    The system will correctly classify each image as a vehicle or animal.
+Evaluation of the Model:
+    Accuracy: Proportion of correctly classified images to the total.
+    Accuracy: Quality of positive predictions, indicating the proportion of correctly identified images.
+Analysis of Results:
+    Identification of any error patterns.
+    Evaluation of systematically confused image categories.
+    Examination of erroneous images and reflection on possible improvements to the model.
